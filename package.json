@@ -1,0 +1,22 @@
+{
+  "name": "wa_todo_list_project",
+  "version": "1.0.0",
+  "description": "todo list project with typescript,node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "to_do_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wa.siddiqui",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.18"
+  }
+}
