@@ -1,6 +1,6 @@
 {
   "name": "wa_todo_list_project",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "todo list project with typescript,node.js and inquirer",
   "main": "index.js",
   "type": "module",
